@@ -1,0 +1,148 @@
+.first-section{
+    font-family: 'PT Serif', serif;
+    margin-left: 25%;
+
+    
+}
+.first-section-heading{
+    font-size: 50px;
+    border-left:  4px solid tomato;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding-left: 15px;
+}
+.colored-heading-text{
+    color: rgb(3, 122, 83);
+}
+
+.half-width{
+    width: 40%;
+    display: inline-block;
+}
+
+.half-width img{
+    width: 70%;
+    
+}
+.first-sec-link-button{
+    background: rgb(230, 94, 45);
+    padding: 10px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: cornsilk;
+    position: inherit;
+}
+.second-section{
+    font-family: 'PT Serif', serif;
+}
+.second-section-heading{
+    font-size: 42px;
+    text-align: center;
+}
+.rbox{
+    margin-left: 15%;
+}
+.rbox1 {
+    border-radius: 25px;
+    background: #edf5f6;
+    padding: 20px; 
+    width: 350px; 
+    height: 350px;
+    display: inline-block;
+    margin-left: 2%;  
+    margin-right: 4%;
+    
+}
+.rbox-img{
+    /*top: -5px;*/
+    width: 130px;
+    height: 130px;
+    margin-left: -2%;
+    
+}
+.rbox2{
+    border-radius: 25px;
+    background: #ffeeee;
+    padding: 20px; 
+    width: 350px; 
+    height: 350px;
+    display: inline-block;
+    margin-left: -2%;  
+    margin-right: -2%; 
+}
+
+.rbox3{
+    border-radius: 25px;
+    background: #fff4d5;
+    padding: 20px; 
+    width: 350px; 
+    height: 350px;
+    display: inline-block; 
+    margin-left: 4%;  
+    margin-right: 2%;
+}
+.third-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 0% 20%;
+    background-size: 200px ;
+    margin-top: 5%;
+    font-family: 'PT Serif', serif;
+    margin-left: 18%;
+}
+.third-section-heading{
+    margin-bottom: 5%;
+    margin-left: 15%;
+    font-size: 40px;
+    
+}
+
+.third-sec-para{
+    margin-left: 15%;
+    margin-bottom: 7%;
+    
+}
+
+.fourth-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 82% 100%;
+    background-size: 200px ;
+    margin-top: 5%;
+    font-family: 'PT Serif', serif;
+    margin-left: 24.5%;
+}
+.fourth-sec-heading{
+    margin-bottom: 6%;
+    font-size: 40px;
+}
+.fourth-sec-para{
+    margin-bottom: 6%;
+}
+.fifth-section{
+    font-family: 'PT Serif', serif;
+    margin-left: 10%;
+}
+.fifth-section-heading{
+    margin-left: 15%;
+    font-size: 40px;
+    margin-bottom: -1%; 
+}
+.fifth-sec-para{
+    margin-left: 15%;
+    margin-bottom: 10%;
+    
+}
+.footer{
+    font-family: 'PT Serif', serif;
+    background: black;
+    width: auto;
+    height: 300px;
+    margin-top: 10%;
+    
+}
+.footer-text{
+    padding-top: 3.5%;
+    text-align: center;
+ 
+}
